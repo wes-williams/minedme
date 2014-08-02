@@ -6,11 +6,11 @@
 
 ## Documentation
 
-http://wes-williams.blogspot.com/2011/12/minedme-part-1-oauth.html
-http://wes-williams.blogspot.com/2011/12/minedme-part-2-jdo-with-appengine.html
-http://wes-williams.blogspot.com/2011/12/minedme-part-3-json-data-model.html
-http://wes-williams.blogspot.com/2011/12/minedme-part-4-google-visualization-api.html
-http://wes-williams.blogspot.com/2011/12/minedme-part-5-jqueryui.html
+1. http://wes-williams.blogspot.com/2011/12/minedme-part-1-oauth.html
+2. http://wes-williams.blogspot.com/2011/12/minedme-part-2-jdo-with-appengine.html
+3. http://wes-williams.blogspot.com/2011/12/minedme-part-3-json-data-model.html
+4. http://wes-williams.blogspot.com/2011/12/minedme-part-4-google-visualization-api.html
+5. http://wes-williams.blogspot.com/2011/12/minedme-part-5-jqueryui.html
 
 ## screenshots
 
