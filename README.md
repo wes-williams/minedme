@@ -15,4 +15,4 @@ http://wes-williams.blogspot.com/2011/12/minedme-part-5-jqueryui.html
 ## screenshots
 ![Charts](./screenshots/chart.jpg)
 ![Game](./screenshots/game.jpg)
-![Notifications](./screenshots/notifcations.jpg)
+![Notifications](./screenshots/notifications.jpg)
