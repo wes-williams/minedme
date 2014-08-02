@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cronentries>  
+  <cron>
+    <url>/admin/fbCollect</url>
+    <description>Collect from FB</description>
+    <schedule>every day 02:50</schedule>
+    <timezone>America/Denver</timezone>
+  </cron>
+  <cron>
+    <url>/admin/liCollect</url>
+    <description>Collect from LI</description>
+    <schedule>every day 03:00</schedule>
+    <timezone>America/Denver</timezone>
+  </cron>
+  <cron>
+    <url>/admin/twCollect</url>
+    <description>Collect from TW</description>
+    <schedule>every day 03:10</schedule>
+    <timezone>America/Denver</timezone>
+  </cron>
+  <cron>
+    <url>/admin/fsCollect</url>
+    <description>Collect from FS</description>
+    <schedule>every day 03:20</schedule>
+    <timezone>America/Denver</timezone>
+  </cron>
+  <cron>
+    <url>/admin/userActivityScore</url>
+    <description>Score User Activity</description>
+    <schedule>every day 03:30</schedule>
+    <timezone>America/Denver</timezone>
+  </cron>
+  <cron>
+    <url>/admin/userScore</url>
+    <description>Score User</description>
+    <schedule>every day 03:50</schedule>
+    <timezone>America/Denver</timezone>
+  </cron>
+  <cron>
+    <url>/admin/userSnapshot</url>
+    <description>create totals snapshot</description>
+    <schedule>every day 04:30</schedule>
+    <timezone>America/Denver</timezone>
+  </cron>
+  <cron>
+    <url>/admin/userNotify</url>
+    <description>perform notifications</description>
+    <schedule>every day 05:00</schedule>
+    <timezone>America/Denver</timezone>
+  </cron>
+
+</cronentries>

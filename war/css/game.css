@@ -1,0 +1,20 @@
+.description { width:760px; position:relative; float:left; padding:5px 10px; margin: 0px 10px 0px 10px; font-size:18px; color:white; background-color:#C90637; border-radius:10px; -moz-border-radius:10px; font-weight:bold; text-align:justify;  }
+.games { width:330px; float:right; margin:0pxin 0px 10px 0px; }
+.gamesWrapper { width:355px; float:right; position:relative; margin:10px; }
+.gamesTitle { text-align:center; font-size:14px; color:#635F62; } 
+.game { font-family:arial; color:white; }
+.gameSubject { float:left; margin:15px 15px 0px 0px }
+.gameSubject img { border:none; }
+.gameResult { width:65px; height:60px; float:left; position:relative; color:white; background-color:#635F62; font-size:50px; text-align:center; border-radius:10px; -moz-border-radius:10px; vertical-align:top; }
+.gameAnswer { float:left; position:relative; width:65px; height:60px; margin: 0px 5px 0px 5px; background-color:blue; color:white; font-size:50px; text-align:center; border-radius:10px; -moz-border-radius:10px; vertical-align:top; }
+.gameAnswer a { color:white; text-decoration:none; }
+.gameAnswer a:link { color:white; text-decoration:none; }
+.gameAnswer a:visited { color:white; text-decoration:none; }
+.gameSubmit { text-decoration:none;}
+.charts { width:415px; height:380px; position:relative; float:left; margin:10px 0px 0px 10px; }
+.chartsTitle { text-align:center; font-size:14px; color:#635F62;} 
+.chart { align:center; } 
+.legendEntry { font-weight:bold; background-color:darkgray; color:white; }
+
+.missingChart { font-size:80px; font-family:arial; color:darkgray; font-weight:bold; text-align:center; }
+.goodLuck { color:#E5FF00; font-weight:bolder; }

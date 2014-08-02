@@ -1,0 +1,25 @@
+.main { margin:10px; float:left }
+.extra{ width:780px; height:380px; position:relative; float:left; margin:10px; }
+.headerleft { float:left; position:relative; width:360px; margin:0px; padding:0px; }
+.headerbox { float:left; width:235px; background-color:#1B50E0; color:white; line-height:150%; text-align:justify; border-radius:10px; -moz-border-radius:10px; font-size:16px; font-weight:bold; padding:7px; margin:5px 5px 5px 10px;}
+.iconbox { width:85px; float:left; position:relative; margin:5px 0px 0px 0px; padding: 0px;}
+.iconbox img { margin:3px;}
+.headerright { float:left; position:relative; width:420px; margin:0px; padding:0px; }
+.headerrightbox { float:left; position:relative; width:205px; height:80px; line-height:140%; border-radius:10px; -moz-border-radius:10px; background-color:#077814; color:white; text-align:justify; padding:10px; margin:0px; font-size:19px; font-weight:bold; }
+.chartthumbs { float:bottom; position:relative; margin:0px 0px 0px 10px; }
+.chartthumbsimg { float:left; position:relative; margin:0px 4px 0px 0px;} 
+.catch { margin:10px; }
+.catchleftQ { width:645px; height:115px; float:left; position:relative; background-color:#990066; color:white; font-size:43px; font-weight:bolder; border-radius:10px; -moz-border-radius:10px; padding:4px; text-align:center; line-height:130%; }
+.catchrightQ {  height:115px; float:right; position:relative; background-color:#077814; color:white; font-size:135px; font-weight:bold; margin:0px; padding:4px 0px; line-height:85%; text-align:center; border-radius:10px; -moz-border-radius:10px; width:100px; }
+.catchleftA { width:645px; height:115px; float:left; position:relative; background-color:#1B50E0; color:white; font-size:43px; font-weight:bolder; border-radius:10px; -moz-border-radius:10px; padding:4px; text-align:center; line-height:130%; margin:7px 0px 0px 0px; }
+.catchrightA {  height:115px; float:right; position:relative; background-color:#FF8800; color:white; font-size:135px; font-weight:bold; margin:7px 0px 0px 0px; padding:4px 0px; line-height:85%; text-align:center; border-radius:10px; -moz-border-radius:10px; width:100px; }
+.voting { float:left; position:relative; height:80px; width:170px; margin:0px 0px 0px 10px; padding:10px 0px 10px 5px; background-color:#990066; border-radius:10px; -moz-border-radius:10px; }
+.networkvote { width:100%; float:left; margin:0px 0px 7px 15px; }
+
+.largeblocks { width:100%; margin:0px; }
+.largeblocktitle { font-size:20px; font-weight:bold; margin-bottom:10px;}
+.largeblockleft { width:330px; height:155px; float:left; position:relative; margin:10px 0px 10px 10px; padding:10px; line-height:135%; background-color:#FF8800; color:white; border-radius:10px; -moz-border-radius:10px; }
+.largeblockright { width:380px; height:155px; float:left; position:relative; margin:10px 0px 10px 10px; padding:10px; background-color:#077814; color:white; border-radius:10px; -moz-border-radius:10px; }
+.gamedescription { font-size:16px; font-weight:bold; text-align:justify; line-height:140%;}
+.gameterm { font-size:17px; font-weight:bolder;  }
+.gametermdef { font-size: 16px; font-weight:normal; margin-left:10px; }

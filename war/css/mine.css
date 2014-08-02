@@ -1,0 +1,13 @@
+.charts { width:780px; height:380px; position:relative; float:left; margin:10px; }
+.chartsTitle { text-align:center; font-size:14px; color:#635F62;} 
+.chart { padding:0px !important; } 
+
+.nestedchart { padding:4px 20px !important; font-size:14px !important; }
+.nestedchartnav { }
+
+.legend { margin:10px; }
+.legendEntry { float:left; margin:10px 15px; }
+.legendEntryIcon { float:left; position:relative; margin:5px; }
+.legendEntryColor { float:right; margin:5px; padding:7px; text-align:center; vertical-align:middle; font-size:20px; font-weight:bold; border-radius:10px; -moz-border-radius:10px;}
+
+.missingChart { font-size:128px; font-family:arial; color:darkgray; font-weight:bold; text-align:center; }
